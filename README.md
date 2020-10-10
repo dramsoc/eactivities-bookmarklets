@@ -1,4 +1,4 @@
-# eActivities bookmarklets
+# eActivities bookmarklets
 
 These browser bookmarklets are intended to make browsing [eActivities](https://eactivities.union.ic.ac.uk/)' financial pages easier, by providing shortcuts to commonly-used (but hard-to-reach) pages.
 
